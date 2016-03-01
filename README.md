@@ -9,6 +9,12 @@ A draftn of the paper is available at:
 ## Citation Info
 
 ```
+@article{chen2016online,
+  title={Are Online Labor Markets Spot Markets for Tasks?: A Field Experiment on the Behavioral Response to Wage Cuts},
+  author={Chen, Daniel L and Horton, John J},
+  journal={Information Systems Research},
+  year={Forthcoming}
+}
 ```
 
 ## Replication
