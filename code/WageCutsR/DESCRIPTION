@@ -1,0 +1,8 @@
+Package: WageCutsR
+Title: Provides all the analysis for the Chen & Horton ISR paper. 
+Version: 1.0
+Authors@R: person("John", "Horton", email = "john.joseph.horton@gmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph)
+Depends: R (>= 3.1.2), stargazer (>= 5.1), Hmisc (>= 3.14-0), xtable (>= 1.7-4)
+License: MIT License
+LazyData: true
