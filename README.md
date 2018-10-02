@@ -1,6 +1,6 @@
-# Notes
+# README
 
-This is the associated code for my paper with Daniel Chen:
+This is the associated code for my paper with Daniel Chen `Are Online Labor Markets Spot Markets for Tasks?: A Field Experiment on the Behavioral Response to Wage Cuts`
 
 ## Citation Info
 
@@ -13,9 +13,7 @@ This is the associated code for my paper with Daniel Chen:
 }
 ```
 
-A draft of the paper is available at:
-
-1. My website: [http://www.john-joseph-horton.com/papers/wages_of_paycuts.pdf](http://www.john-joseph-horton.com/papers/wages_of_paycuts.pdf)
+A draft of the paper is available at my website: [http://www.john-joseph-horton.com/papers/wages_of_paycuts.pdf](http://www.john-joseph-horton.com/papers/wages_of_paycuts.pdf)
 
 ## Replication
 
